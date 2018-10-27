@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html class="uk-background-secondary uk-light uk-padding uk-panel">
+    <head>
+        <title>Kaique902</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/uikit.min.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <script src="js/uikit.min.js"></script>
+        <script src="js/uikit-icons.min.js"></script>
+
+    </head>
+    <body>
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+            <div class="uk-navbar-left">
+
+                <ul class="uk-navbar-nav">
+                    <li> 
+                        <a href="#"  class="uk-animation-fade"><h1>Kaique902</h1></a>
+                        <!--<p>"A segurança é o ato contínuo de melhorar o seu redor."</p>
+                         <img src="https://png.icons8.com/metro/50/ffffff/security-checked.png"> -->
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="uk-navbar-right">
+
+                <ul class="uk-navbar-nav">
+                    <!-- <li class="uk-active"><a href="#">Active</a></li> -->
+                    <li><a href="#experiencia">Experiência</a></li>
+                    <li><a href="#">Cursos e graduações</a></li>
+                    <li><a href="#">Certificações</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+
+            </div>
+
+        </nav>
+
+        <div class="uk-child-width-expand@s uk-text-center" uk-grid>
+
+        </div>
+
+        <div class="uk-container uk-container-expand uk-background-default">
+            
+
+        </div>
+
+        <div uk-height-viewport="expand: true">
+
+            <div class="uk-section" id="experiencia">
+                <div class="uk-container">
+
+                    <h3>Quem sou</h3>
+
+                    <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
+                        <div>
+                            <p>Prazer, me chamo Kaique, sou um eterno estudante de Segurança da Informação, formado na Universidade Nove de Julho.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="uk-section" id="experiencia">
+                <div class="uk-container">
+
+                    <h3>Experiência</h3>
+
+                    <div class="uk-grid-match uk-child-width-1-3@m" uk-grid>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+
+    <div class="uk-position-bottom-center uk-overlay">Todos os direitos reservados a Kaique902</div>
+    </body>
+        <script src="js/script.js"></script>
+</html>
